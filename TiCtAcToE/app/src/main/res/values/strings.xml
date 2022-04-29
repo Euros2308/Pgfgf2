@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TiC tAc ToE</string>
+    <string name="title_activity_game">GameDisplay</string>
+    <string name="appTitle">TIC TAC TOE</string>
+    <string name="playButton">ИГРАТЬ</string>
+    <string name="playerSetup">ИГРОКИ</string>
+    <string name="Label1">Игрок 1</string>
+    <string name="Label2">Игрок 2</string>
+    <string name="submitButton">ПРОДОЛЖИТЬ</string>
+    <string name="NameHint">Введите имя</string>
+    <string name="playAgainButton">НАЧАТЬ ЗАНОВО</string>
+    <string name="homeButton">ВЫЙТИ</string>
+    <string name="tieGame">Ничья!!!</string>
+</resources>
